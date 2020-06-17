@@ -1,3 +1,4 @@
 def say_hello ("kent back")
-  puts
+  puts say_hello
+end
   
