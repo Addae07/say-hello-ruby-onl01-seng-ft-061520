@@ -1,4 +1,4 @@
-def say_hello ("kent back")
-  puts say_hello
+def say_hello
+  puts "Hi, Ruby programmer!"
 end
   
