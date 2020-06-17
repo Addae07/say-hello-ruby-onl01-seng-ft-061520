@@ -1,1 +1,1 @@
-# Build yoursay_hello("Kent Beck") say_hello method here
+say_hello("Kent Beck")
